@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://github.com/Memeena/testimonial-grid-section/blob/0b4734bba551f730a09a2f5b0951e99ba47f68f9/Frontend%20Mentor%20Testimonials-grid-section%20screenshot-laptop.png)
-![](./Frontend Mentor Testimonials-grid-section screenshot-mobile.png)
+![](https://github.com/Memeena/testimonial-grid-section/blob/a0a7cb039cdcf5050ec2a6c7fea79f174a9a6fbd/Frontend%20Mentor%20Testimonials-grid-section%20screenshot-mobile.png)
 
 
 ### Links
