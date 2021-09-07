@@ -26,13 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-[](./Frontend Mentor Testimonials-grid-section screenshot-laptop.png)
-[](./Frontend Mentor Testimonials-grid-section screenshot-mobile.png)
+![](./Frontend Mentor Testimonials-grid-section screenshot-laptop.png)
+![](./Frontend Mentor Testimonials-grid-section screenshot-mobile.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Memeena/testimonial-grid-section)
+- Live Site URL: [Live site URL here](https://memeena.github.io/testimonial-grid-section/)
 
 ## My process
 
