@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Frontend Mentor Testimonials-grid-section screenshot-laptop.png)
-![](./Frontend Mentor Testimonials-grid-section screenshot-mobile.png)
+[](./Frontend Mentor Testimonials-grid-section screenshot-laptop.png)
+[](./Frontend Mentor Testimonials-grid-section screenshot-mobile.png)
 
 ### Links
 
